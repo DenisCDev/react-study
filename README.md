@@ -1,4 +1,4 @@
-### Code in react with typescript to study
+# Code in react with typescript to study
 
 For this code was used create react app
 
