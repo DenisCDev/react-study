@@ -6,6 +6,7 @@ For this code was used create react app
 
 In the project directory, you can run:
 
+## `npm install`
 ## `npm start`
 
 Runs the app in the development mode.\
